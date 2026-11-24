@@ -1,2 +1,1 @@
 # API-Quotex
-A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
